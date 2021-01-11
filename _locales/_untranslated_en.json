@@ -43,5 +43,20 @@
   },
   "copy_json": {
     "message": "Copy JSON"
+  },
+  "menu_item_chat_audit_log": {
+    "message": "Chat Audit Log"
+  },
+  "loading": {
+    "message": "Loading"
+  },
+  "chat_audit_log_empty_message": {
+    "message": "System messages of this chat would appear here"
+  },
+  "chat_audit_log_title": {
+    "message": "Audit Log for %1$s"
+  },
+  "chat_audit_log_description": {
+    "message": "This view shows only System- and Info-Messages. Useful for finding the last chat actions without scrolling through many normal messages."
   }
 }
